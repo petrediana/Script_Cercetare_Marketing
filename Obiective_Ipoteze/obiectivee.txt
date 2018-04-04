@@ -1,0 +1,10 @@
+  -brand-urile preferate de cumparatori (la diferite instrumente)
+	-varsta persoanelor care achizitioneaza instrumente
+	-perioada anului in care se cumpara instrumente
+	-stilul de muzica pe care persoana respeciva il prefera
+	-pasiunea pentru muzica a persoanei respective 
+  -brand-urile preferate de cumparatori (la diferite instrumente)
+	-varsta persoanelor care achizitioneaza instrumente
+	-perioada anului in care se cumpara instrumente
+	-stilul de muzica pe care persoana respeciva il prefera
+	-pasiunea pentru muzica a persoanei respective 

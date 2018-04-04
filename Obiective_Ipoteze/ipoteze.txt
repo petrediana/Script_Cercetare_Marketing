@@ -1,0 +1,17 @@
+        -pentru un incepator cele mai preferate brand-uri de chitara sunt Fender, Ibanez
+	-Gibson pentru chitara, si Pearl pentru tobe sunt brand-urile cele mai preferate de instrumentistii profesionisti
+	-Fender Jazz Bass este chitara Bass preferata de cei mai multi incepatori
+	
+	-persoanele intre 12-18 ani achizitioneaza instrument acustice de calitate medie
+	-persoanele intre 18-25 de ani achizitioneaza instrumente electrice, extensii ale acestora( de exemplu doze de chitara, corzi, pedale etc)
+	
+	-Vara si Primavara creste cererea pentru instrumentele acustice si cele cu corzi
+	-Iarna si Toamna creste cererea pentru instrumentele electronice (fara corzi)
+	
+	-persoanele interesate de muzica rock vor achizitiona chitare electice cu doze si lemn specific pentru acest gen de muzica (doze cu output mediu spre mare, doze cu mult atac etc) si tobe acustice cu o rezonanta mai mare
+	-persoanele interesate de uzica electro vor achizitiona instrumente electronice (in special pianine) programabile si cu o octava
+	-persoanele interesate e muzica jazz or prefera instrumentele cu o rezonanta mai mare si lemn specific
+
+	-persoanele pasionate vor urmari stocul magazinului si vor fi interesati de noile produse aduse
+	-muzicienii profesionisti vor fi tot timpul interesati de instrumentele de cea mai buna calitate
+	-incepatorii vor adresa foarte multe intrebari legate de calitatea unui instrument

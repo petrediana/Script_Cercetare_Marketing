@@ -1,0 +1,59 @@
+#!/bin/bash
+
+echo " Buna ziua, magazinul de muzica Street Symphony doreste sa realizez un studiu de marketing referitor la preferintele persoanelor pasionate de muzica. Parerea dumneavoastra ar fi un real ajutor. Multumim!"
+
+echo " "
+
+read -p "Cum va numiti(un prenume este suficient)? " name
+
+echo " "
+
+echo "Buna $name, chestionarul va incepe imediat"
+echo " "
+	echo "Raspunsurile vor fi stocate in acest fisier:" >$name.txt
+
+read -p " 1.Sunteti pasionat de muzica?(Da/Nu)  " raspuns
+	echo "$raspuns" >>$name.txt
+
+read -p " 2.Ce varsta aveti? " varsta
+	echo "$varsta" >>$name.txt
+
+read -p " 3.Daca ati putea achizitiona un instrument, care ar fi acela? " instrument
+	echo "$instrument" >>$name.txt
+
+read -p " 4.Care este nivelul dumneavoastra muzical in concordanta cu instrumentul pe care l-ati ales?(Alegeti unul de mai jos):
+		Incepator
+		Avansat (experienta minim 2 ani)
+		Profesionist (experienta minim 5 ani)
+	 Raspuns: " nivel
+	echo "$nivel" >>$name.txt
+
+read -p " 5.In functie de instrumentul pe care l-ati ales, care este brandul/brandurile pe care il/le preferati? " brand
+	echo "$brand" >>$name.txt
+
+read -p " 6.Care sunt genurile de muzica pe care le ascultati? " gen
+	echo "$gen" >> $name.txt
+
+read -p " 7.Ati achizitionat extensii/doriti sa achizitionati extensii ale unui instrument? Daca da, va rog sa ne spuneti ce anume: " extensie
+	echo "$extensie" >>$name.txt
+
+read -p " 8.Achizitionati un instrument in functie de calitatea lemnului, dozele pe care le are, corzile cu care vine din fabrica etc? (Da/Nu) " calitate
+	echo "$calitate" >>$name.txt
+
+read -p " 9.In ce perioada a anului ati achizitiona un instrument cu corzi? (Alegeti un raspuns de mai jos) 
+		Nu sunt interesat de instrumentele cu corzi
+		Primavara, Vara
+		Toamna, Iarna
+		Nu are importanta perioada
+	Raspuns: " perioada
+	echo "$perioada" >>$name.txt
+
+read -p " 10.Urmariti stocul magazinului pentru a vedea instrumentele noi aduse sau alte extensii?
+		Nu
+		Foarte rar (odata pe luna)
+		Cateodata
+		Da
+	Raspuns: " urmarire
+	echo "$urmarire" >>$name.txt
+
+	echo "Multumim pentru timpul acordat! O zi placuta!"
